@@ -76,3 +76,6 @@ Based on the performance metrics:
 3. **Decision Tree Classifier**, while achieving perfect training accuracy, shows signs of overfitting as indicated by its lower test accuracy and F1 score. Further regularization or ensemble methods could potentially improve its performance.
 
 4. **Ridge Classifier** and **KNN Classifier** performed well but slightly below the top performers in terms of accuracy and F1 score metrics.
+
+## License
+[MIT License](LICENSE)
